@@ -1,0 +1,3 @@
+name: czbi
+license: BSD-3-Clause
+description: 'Clone, Zig build, Install. https://github.com/booniepepper/czbi'
