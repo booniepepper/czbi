@@ -1,1 +1,8 @@
-crozbi
+#!/bin/bash
+
+echo >&2 'WARN: This project is now called "crozbi"'
+echo >&2 'WARN: You can update by simply using crozbi instead of czbi'
+echo >&2 'WARN: For future updates, run "crozbi so-dang-cool/crozbi'
+
+exec crozbi
+

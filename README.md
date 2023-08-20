@@ -1,3 +1,9 @@
+This project has moved! It was formerly, briefly known as "czbi"
+
+* https://github.com/booniepepper/crozbi
+
+---
+
 # crozbi
 
 ## Clone RepO, Zig Build, Install
